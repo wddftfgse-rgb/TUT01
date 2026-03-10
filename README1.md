@@ -18,3 +18,11 @@
 > "배움에는 끝이 없다."
 ## 간단한 코드 예시
 다음은 Phyton의 간단한 코드입니다.
+```python
+def great(name):
+  print(f'안녕하세요 {name}님!')
+
+great('홍길동')
+```
+## 링크와 이미지
+[Google로 가기](https://www.google.com)
