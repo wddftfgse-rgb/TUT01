@@ -26,3 +26,25 @@ great('홍길동')
 ```
 ## 링크와 이미지
 [Google로 가기](https://www.google.com)
+
+귀여운 고양이 이미지:
+![Alt text](https://images.squarespace-cdn.com/content/v1/607f89e638219e13eee71b1e/1684821560422-SD5V37BAG28BURTLIXUQ/michael-sum-LEpfefQf4rU-unsplash.jpg)
+## 할 일 목록
+- [ ] 깃헙 계정 만들기
+- [ ] 리포지토리 생성하기
+- [ ] README 작성하기
+- [ ] 이슈 등록하기
+## 테이블 작성하기
+|이름|나이|취미|
+|---|---|---|
+|홍길동|25|독서|
+|이영희|23|여행|
+|김철수|28|사이클링|
+## 인용문(Blockquote)
+> "시작이 반이다."
+## 강조하기
+- **굵은 글씨**
+- *기울임*
+- ~~취소선~~
+##
+감사합니다!
